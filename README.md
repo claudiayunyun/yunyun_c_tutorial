@@ -1,2 +1,11 @@
-# yunyun_c_tutorial  
-## C tutorial from https://www.youtube.com/watch?v=KJgsSFOSQv0  
+# c programming tutorial and practice 
+## Hello World
+~~~~
+#include <stdio.h>
+
+int main() {
+   printf("Hello, world!\n");
+   return 0;
+}
+~~~~
+
