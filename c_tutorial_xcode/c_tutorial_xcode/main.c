@@ -2,8 +2,6 @@
 //  main.c
 //  c_tutorial_xcode
 //
-//  Created by Yunyun Huang on 9/12/18.
-//  Copyright © 2018 Yunyun Huang. All rights reserved.
 //
 
 #include <stdio.h>
